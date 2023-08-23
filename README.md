@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O projeto foi criado usando conceitos de manipulação da DOM, permitindo fazer a troca de telas sem mudar a página.
 
-- [Visite o projeto online]()
+- [Visite o projeto online](https://nahblue.github.io/js-guessing-game/)
 
 ## :memo: Licença
 
