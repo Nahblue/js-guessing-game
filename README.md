@@ -1,7 +1,7 @@
 <h1 align="center">Jogo da adivinhação</h1>
 
 <p align="center">
-Projeto de SPA onde o usuário é convidado a chutar um número de 0 a 10 ate acertar qual o número foi escolhido, e o número sempre muda quando o jogo começa de novo<br/>
+Projeto onde o usuário é convidado a chutar um número de 0 a 10 ate acertar qual o número foi escolhido, e o número sempre muda quando o jogo começa de novo<br/>
 </p>
 
 <p align="center">
